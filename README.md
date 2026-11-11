@@ -5,7 +5,7 @@ Two ESP32 boards working as a small CAN network. The **sensor node** reads tempe
    ![Both nodes running](media/Final.jpeg)
 <!-- Put your photo in the media folder with this name, or change the file name above. -->
 
-**Demo video:** **Demo video:** [Watch the 1-minute demo (Google Drive)](https://drive.google.com/file/d/1ptrkx0qqCUBiUvJTJoKWSxSjPf0UULCK/view?usp=drivesdk)
+**Demo video:** [Watch the 1-minute demo (Google Drive)](https://drive.google.com/file/d/1ptrkx0qqCUBiUvJTJoKWSxSjPf0UULCK/view?usp=drivesdk)
 
 ## What it does
 
