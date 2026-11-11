@@ -2,7 +2,7 @@
 
 Two ESP32 boards working as a small CAN network. The **sensor node** reads temperature and pressure from a BMP280 and sends them over a **CAN bus** every second, together with a heartbeat. The **gateway node** receives the data, shows it on an OLED screen and uploads it to ThingSpeak over Wi-Fi. If the sensor node stops sending heartbeats, the gateway shows **NODE LOST** within 3 seconds and recovers on its own when the node comes back.
 
-![Both nodes running](media/setup.jpg)
+   ![Both nodes running](media/Final.jpeg)
 <!-- Put your photo in the media folder with this name, or change the file name above. -->
 
 **Demo video:** **Demo video:** [Watch the 1-minute demo (Google Drive)](https://drive.google.com/file/d/1ptrkx0qqCUBiUvJTJoKWSxSjPf0UULCK/view?usp=drivesdk)
